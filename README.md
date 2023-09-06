@@ -1,6 +1,6 @@
 # Hello!
-## Welcome to doorwood Home Page
+**Welcome to doorwood Home Page**
 
-## Hope you enjoy here!
+**Hope you enjoy here!**
 
 # DataStructures
